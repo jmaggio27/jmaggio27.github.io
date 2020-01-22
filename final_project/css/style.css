@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Pro&display=swap');
+
+body{
+
+}
+
+h1 {
+  font-family: "Crimson Text", serif;
+  font-size: 64px;
+  font-weight: bold;
+  line-height: 1.3;
+}
+
+h3 {
+  text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 3px;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.3;
+  color: gray;
+}
+
+p, ul {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 1.3;
+  font-weight: bold;
+}
+
+#orgs {
+  padding: 40px;
+  border: 4px solid #4343C5;
+  text-align: center;
+  margin: 40px auto;
+  width: 900px;
+
+}
+
+#orgs li {
+  display: inline-block;
+  font-size: 24px;
+  margin: 24px;
+  width: 200px;
+}
+
+#location {
+  padding-bottom: 20px;
+  color: grey;
+  font-weight: normal;
+}
+
+#org-intro {
+  text-align: center;
+  font-weight: normal;
+  color: grey;
+  padding-top: 40px;
+  padding-bottom: 16px;
+}
+
+#blurb {
+  color: #4343C5;
+  font-weight: normal;
+  line-height: 1.8;
+}
+
+.first-section {
+  display: block;
+  margin: 40px auto;
+  width: 900px;
+}
+
+img {
+  display: block;
+  width: 400px;
+  margin: 80px auto;
+}
